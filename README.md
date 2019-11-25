@@ -1,0 +1,2 @@
+# Library-Management-System
+The main objective of this project was to study a Library management software that will help a school or college or institute in Student profile facilities like Book entry, Issue Book ,Book Submission Date, type of books, Subjects,late fine, add student,add class, fee due, fee report, edit information, SMS generation Student Inquiry, Statement. We provide good user interface. Whole coding of application done in Core JAVA , MySQL using Net beans IDE.
